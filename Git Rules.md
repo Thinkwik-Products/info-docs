@@ -95,3 +95,4 @@ Each repository should have a `README.md` file. Readme file should contain follo
 - Technical Stack: List of technologies required in order to run the project
 - Getting Started: Steps for setting up local environment
 - Deployment: How to deploy project on a live environment
+- Branching StrategyL What is the branching strategy used for this repository.
