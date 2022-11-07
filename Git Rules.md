@@ -38,7 +38,7 @@ git pull
 
 ```bash
 git checkout feature/1110
-git rebase master
+git rebase main
 ```
 
 - Resolve conflicts if any
